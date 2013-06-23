@@ -1,15 +1,6 @@
 #include<iostream>
 #include<fstream>
 
-/*
-struct S
-{
-    int val;
-    int no;
-    int possibility[9];
-}sudoku[9][9];
-*/
-
 using namespace std;
 
 int sudoku[9][9][10];
